@@ -1,1 +1,214 @@
+// Name: Sijan Panday
+// Project Description: Final exam, make midterm favorite movie name and box office program using arrays
+// Date: 3/10/2022
+#include<iostream>
+#include<string>
+#include<iomanip>
+#include<fstream>
+using namespace std;
+void fileOpenCheck(ifstream& fInput);
+void fileOpenCheck2(ofstream& fOutput);
+void fileData(ifstream& fInput, ofstream& fOutput, string fName[], string lName[], string favMovie[], int yearMade[], int boxPrice[], int& 
+highBox, string& highfName, string& highlName, string& highMovieName, int& highYearMade, int& counter);
+void outputData(ofstream& fOutput, string fName[], string lName[], string favMovie[], int yearMade[], int boxPrice[], int& counter);
+void outputHighest(ofstream& fOutput, string highfName, string highlName, string highMovieName, int highYearMade, int highBox);
+int main()
+{
+ 
+// File management
+ 
+ifstream fInput;
+ 
+ofstream fOutput;
+ 
+fInput.open("input.txt");
+ 
+fOutput.open("output.txt");
+ 
+// Variables
+ 
+int const x = 50;
+ 
+int boxPrice[x], yearMade[x], highBox = 0, highYearMade=0, counter = 0;
+ 
+string favMovie[x], fName[x], lName[x];
+ 
+string highfName, highlName, highMovieName;
+ 
+// Calling the functions
+ 
+fileOpenCheck(fInput);
+ 
+fileOpenCheck2(fOutput);
+ 
+fileData(fInput, fOutput, fName, lName, favMovie, yearMade, boxPrice, highBox, highfName, highlName, highMovieName, highYearMade, 
+counter);
+ 
+outputData(fOutput, fName, lName, favMovie, yearMade, boxPrice, counter);
+ 
+outputHighest(fOutput, highfName, highlName, highMovieName, highYearMade, highBox);
+ 
+// Closing the files
+ 
+fInput.close();
+ 
+fOutput.close();
+ 
+return 0;
+}
+// Functions Building
+void fileOpenCheck(ifstream& fInput)
+{
+ 
+if (
+!fInput.is_open()
+)
+ 
+{
+ 
+cout << "Input file not found" << endl;
+ 
+exit(1);
+ 
+}
+}
+void fileOpenCheck2(ofstream& fOutput)
+{
+ 
+if (
+!fOutput.is_open()
+)
+ 
+{
+ 
+cout << "Input file not found" << endl;
+ 
+exit(1);
+ 
+}
+}
+void fileData(ifstream& fInput, ofstream& fOutput, string fName[], string lName[], string favMovie[], int yearMade[], int boxPrice[], int& 
+highBox, string& highfName, string& highlName, string& highMovieName, int& highYearMade, int& counter)
+{
+ 
+while (
+ 
+!fInput.eof()
+ 
+)
+ 
+{
+ 
+fInput >> fName[counter];
+ 
+fInput >> lName[counter];
+ 
+fInput.ignore();
+ 
+getline(fInput, favMovie[counter]
+);
+ 
+fInput >> yearMade[counter];
+ 
+fInput >> boxPrice[counter];
+ 
+if (boxPrice[counter] >= highBox)
+ 
+{
+ 
+highBox = boxPrice[counter];
+ 
+highfName = fName[counter];
+ 
+highlName = lName[counter];
+ 
+highMovieName = favMovie[counter];
+ 
+highYearMade = yearMade[counter];
+ 
+}
+ 
+counter++;
+ 
+}
+}
+void outputData(ofstream& fOutput, string fName[], string lName[], string favMovie[], int yearMade[], int boxPrice[], int& counter)
+{
+ 
+for (int a = 0; a < counter; a++)
+ 
+{
+ 
+cout << "Name: " << fName[a] << " " << lName[a] << endl;
+ 
+fOutput << "Name: " << fName[a] << " " << lName[a] << endl;
+ 
+if (favMovie[a] == "GoodFellas")
+ 
+{
+ 
+cout << "Favorite Movie: " << favMovie[a] << " - Hey! That's my favorite movie too!" << endl;
+ 
+fOutput << "Favorite Movie: " << favMovie[a] << " - Hey! That's my favorite movie too!" << endl;
+ 
+cout << "Year Made: " << yearMade[a] << endl;
+ 
+fOutput << "Year Made: " << yearMade[a] << endl;
+ 
+cout << "Box Office Gross: $" << boxPrice[a] << endl;
+ 
+fOutput << "Box Office Gross: $" << boxPrice[a] << endl;
+ 
+cout << "\n";
+ 
+fOutput << "\n";
+ 
+}
+ 
+else
+ 
+{
+ 
+cout << "Favorite Movie: " << favMovie[a] << endl;
+ 
+fOutput << "Favorite Movie: " << favMovie[a] << endl;
+ 
+cout << "Year Made: " << yearMade[a] << endl;
+ 
+fOutput << "Year Made: " << yearMade[a] << endl;
+ 
+cout << "Box Office Gross: $" << boxPrice[a] << endl;
+ 
+fOutput << "Box Office Gross: $" << boxPrice[a] << endl;
+ 
+cout << "\n";
+ 
+fOutput << "\n";
+ 
+}
+ 
+}
+}
+void outputHighest(ofstream& fOutput, string highfName, string highlName, string highMovieName, int highYearMade, int highBox)
+{
+ 
+cout << "*** Highest Box Office***" << endl;
+ 
+fOutput << "*** Highest Box Office***" << endl;
+ 
+cout << "Name: " << highfName << " " << highlName << endl;
+ 
+fOutput << "Name: " << highfName << " " << highlName << endl;
+ 
+cout << "Favorite Movie: " << highMovieName << endl;
+ 
+fOutput << "Favorite Movie: " << highMovieName << endl;
+ 
+cout << "Year Made: " << highYearMade << endl;
+ 
+fOutput << "Year Made: " << highYearMade << endl;
+ 
+cout << "Box Office Gros: $" << highBox << endl;
+ 
+fOutput << "Box Office Gros: $" << highBox << endl;
 
