@@ -1,58 +1,46 @@
-Sijan Panday
-📍 Location: 1507 Rose Willow Way, Arlington, Texas 76005
-📞 Phone: 817-609-0929
-📧 Email: spanday@atu.edu
-🔗 GitHub: SijanPanday
+📌 Introduction
+Hello! I'm Sijan Panday, a Computer Science & IT major with a specialization in Machine Learning, Data Science, and Artificial Intelligence. My journey in the tech world has been marked by hands-on experience, impactful research, and a passion for driving data-driven solutions. Dive into my portfolio to explore my projects, research, and more!
 
-## About Me
-Passionate Computer Science & IT major with a strong foundation in machine learning, data science, and artificial intelligence. Proven experience in research, data-driven insights, and customer service. Adept at collaborating with teams to drive project outcomes and contribute to impactful publications.
+🖥️ Experience
+Rexi, Coppell, TX — Data Entry & Device Testing
+June 2021 - August 2021
 
-## Experience
-Rexi, Coppell, TX — Triage & Data Entry
-(June 2021 - August 2021)
-Tested and maintained cellular devices, managed data entry into Microsoft Excel.
+Managed and analyzed large datasets using Microsoft Excel.
+Ensured the functionality and performance of cellular devices through rigorous testing.
+What’s Poppin Texas, Bedford, TX — Tech Assistant Manager
+December 2021 – Present
 
-What’s Poppin Texas, Bedford, TX — Assistant Manager
-(December 2021 – Present)
-Assisted customers, utilized professional communication and organization skills to boost sales.
+Implemented tech solutions to streamline the order process.
+Utilized data analytics to enhance customer experience and increase sales.
+ATU Machine Learning, Russellville, AR — Research Assistant in AI & ML
+August 2022 - Present
 
-ATU Machine Learning, Russellville, AR — Research Assistant
-(August 2022 - Present)
-Contributed to impactful Machine Learning research, collaborated with leadership to offer data-driven insights, and employed advanced techniques using Python and Jupyter Notebook.
-
-Publications & Presentations
+Engaged in cutting-edge Machine Learning research using Python and Jupyter Notebook.
+Collaborated with a team to develop algorithms and models that drive project outcomes.
+📚 Publications & Presentations
+Publications
 📖 Co-Author: "Crime Prediction Using Machine Learning: The Case of The City of Little Rock"
 Published in 2023 5th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA), Istanbul, Turkiye, 2023.
-
-🎤 Presentations:
-
-STEM presentations at the Arkansas Capital
-Arkansas Academy of Science
-ATU Research Symposium
-Education
+Presentations
+🎤 STEM presentations focusing on AI & ML applications at the Arkansas Capital.
+🎤 Data-driven presentations at the Arkansas Academy of Science and ATU Research Symposium.
+🎓 Education
 Trinity High School, Euless, TX
-3.93 GPA Graduate
-
+Graduated with a 3.93 GPA.
 Arkansas Tech University, Russellville, AR
-3.8 GPA Junior
-Major in Computer Science & IT with a Minor in Mathematics
-
-## Skills
-Machine Learning
-Computing/Programming
-Python
-Data Science
-Customer Service
-Artificial Intelligence
-## Awards
-🏆 1st Place Best Research at Arkansas Academy of Science Research Conference, 2023
-🏆 1st Place Best Project at Arkansas Tech University Research Symposium, 2023
-🏆 Arkansas Tech University Undergraduate Research Grant for PUAA: "Personal University AI Assistant"
-
-Languages
-English
-Nepali
-Hindi
-Urdu
-
-
+Pursuing a major in Computer Science & IT with a Minor in Mathematics.
+Current GPA: 3.8.
+🛠️ Skills
+Machine Learning: Building and tuning models, data preprocessing.
+Programming: Proficient in Python, familiar with various ML libraries.
+Data Science: Data analysis, visualization, and interpretation.
+Artificial Intelligence: Algorithm design, neural networks, deep learning.
+🏅 Awards
+1st Place Best Research at Arkansas Academy of Science Research Conference, 2023.
+1st Place Best Project at Arkansas Tech University Research Symposium, 2023.
+Research Grant for PUAA: "Personal University AI Assistant" from Arkansas Tech University.
+🌐 Languages
+Fluent in English, Nepali, Hindi, and Urdu.
+📞 Contact Me: 817-609-0929
+📧 Email: spanday@atu.edu
+🔗 GitHub: SijanPanday
