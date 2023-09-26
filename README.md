@@ -1,61 +1,41 @@
-# Sijan Panday's Portfolio
+# Glad you ended up here!
 
-## 📌 Introduction
+## 📌 Hello I'm Sijan Panday...
 
-Hello! I'm Sijan Panday, a Computer Science & IT major with a specialization in Machine Learning, Data Science, and Artificial Intelligence. My journey in the tech world has been marked by hands-on experience, impactful research, and a passion for driving data-driven solutions. Dive into my portfolio to explore my projects, research, and more!
+... a Computer Science & IT major with a specialization in Machine Learning, Data Science, and Artificial Intelligence. My journey in the tech world has been marked by hands-on experience, impactful research, and a passion for driving data-driven solutions. Dive into my portfolio to explore my projects, research, and more! If you are more of a resume person... here you [go](resume.pdf).
 
-## 🖥️ Experience
+## 🔍 Research Work
 
-### Rexi, Coppell, TX — Data Entry & Device Testing
-*June 2021 - August 2021*
-- Managed and analyzed large datasets using Microsoft Excel.
-- Ensured the functionality and performance of cellular devices through rigorous testing.
-
-### What’s Poppin Texas, Bedford, TX — Tech Assistant Manager
-*December 2021 – Present*
-- Implemented tech solutions to streamline the order process.
-- Utilized data analytics to enhance customer experience and increase sales.
-
-### ATU Machine Learning, Russellville, AR — Researcher/Founding Member
-*August 2022 - Present*
-- Engaged in cutting-edge Machine Learning research using Python and Jupyter Notebook.
-- Collaborated with a team to develop algorithms and models that drive project outcomes.
+### ATU Machine Learning, Russellville, AR 
+#### - Researcher/Founding Member
 
 ## 📚 Publications & Presentations
-
 ### Publications
-- 📖 **Co-Author:** "Crime Prediction Using Machine Learning: The Case of The City of Little Rock"  
+- 📖: ["Crime Prediction Using Machine Learning: The Case of The City of Little Rock"](https://ieeexplore.ieee.org/document/10156662)  
   Published in 2023 5th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA), Istanbul, Turkiye, 2023.
 
 ### Presentations
-- 🎤 STEM presentations focusing on AI & ML applications at the Arkansas Capital.
+- 🎤 STEM presentations focusing on AI & ML application at the Arkansas State Capitol.
 - 🎤 Data-driven presentations at the Arkansas Academy of Science and ATU Research Symposium.
 
-## 🎓 Education
+### Awards
 
-### Trinity High School, Euless, TX
-- Graduated with a **3.93 GPA**.
-
-### Arkansas Tech University, Russellville, AR
-- Pursuing a major in **Computer Science & IT** with a Minor in Mathematics.
-- Current GPA: **3.8**.
-
-## 🛠️ Skills
-
-- **Machine Learning:** Building and tuning models, data preprocessing.
-- **Programming:** Proficient in Python, familiar with various ML libraries.
-- **Data Science:** Data analysis, visualization, and interpretation.
-- **Artificial Intelligence:** Algorithm design, neural networks, deep learning.
-
-## 🏅 Awards
-
-- **1st Place Best Research** at Arkansas Academy of Science Research Conference, 2023.
+- **1st Place Best Undergraduate Research** at Arkansas Academy of Science Research Conference, 2023.
 - **1st Place Best Project** at Arkansas Tech University Research Symposium, 2023.
 - **Research Grant** for PUAA: "Personal University AI Assistant" from Arkansas Tech University.
 
-## 🌐 Languages
+## 🛠️ Certifications and Skills
 
-- Fluent in **English**, **Nepali**, **Hindi**, and **Urdu**.
+- **Certification of Proficiency in Computer Programming**: Official certification from Arkansas Tech University.
+- **Machine Learning:** Building and tuning models, data preprocessing.
+- **Programming:** Proficient in Python, C++, Javascript. Familiar with various ML libraries.
+- **Data Science:** Data analysis, visualization, and interpretation.
+- **Artificial Intelligence:** Algorithm design, neural networks, deep learning.
+
+## 🌐 Languages
+- **Programming**: Python, C++, SQL, Javascript/TypeScript, HTML, CSS.
+
+- **Real**: Fluent in **English**, **Nepali**, **Hindi**, and **Urdu**.
 
 ---
 
