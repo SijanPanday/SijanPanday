@@ -16,7 +16,7 @@ Hello! I'm Sijan Panday, a Computer Science & IT major with a specialization in 
 - Implemented tech solutions to streamline the order process.
 - Utilized data analytics to enhance customer experience and increase sales.
 
-### ATU Machine Learning, Russellville, AR — Research Assistant in AI & ML
+### ATU Machine Learning, Russellville, AR — Researcher/Founding Member
 *August 2022 - Present*
 - Engaged in cutting-edge Machine Learning research using Python and Jupyter Notebook.
 - Collaborated with a team to develop algorithms and models that drive project outcomes.
