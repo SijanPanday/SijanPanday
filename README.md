@@ -2,7 +2,7 @@
 
 ## 📌 Hello I'm Sijan Panday... 
 
-... a Computer Science & IT major with a specialization in Machine Learning, Data Science, and Artificial Intelligence. My journey in the tech world has been marked by hands-on experience, impactful research, and a passion for driving data-driven solutions. Dive into my portfolio to explore my projects, research, and more! If you are more of a resume person... here you [go](resume.pdf).
+... a Computer Science & IT major with a specialization in Machine Learning, Data Science, and Artificial Intelligence. My journey in the tech world has been marked by hands-on experience, impactful research, and a passion for driving data-driven solutions. Dive into my portfolio to explore my projects, research, and more! If you are more of a resume person... here you [go](Resume.pdf).
 
 ## 🔍 Research Work
 
